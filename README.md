@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=fb923c&center=true&vCenter=true&width=600&lines=Anime;Building%20things;Hi%20there%21;Reading;Side%20projects" alt="lilpwnva84" />
+</p>
 
-<!--
-**lilpwnva84/lilpwnva84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Turning ideas into small, useful software.</h3>
 
-Here are some ideas to get you started:
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I do
+
+- usually building small tools nobody asked for
+- reading docs more than books lately
+- keeps notes about mobile UI/UX that will never be published
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=lilpwnva84&hide_border=true&theme=github" alt="Contribution graph" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lilpwnva84&hide_border=true&theme=tokyonight" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-fb923c?style=for-the-badge&logoColor=white" alt="React Native" /> <img src="https://img.shields.io/badge/Dart-fb923c?style=for-the-badge&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/Flutter-fb923c?style=for-the-badge&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/TypeScript-fb923c?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Firebase-fb923c?style=for-the-badge&logoColor=white" alt="Firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/lilpwnva84?label=Followers&style=social" alt="Followers" />
+  <a href="https://github.com/lilpwnva84"><img src="https://img.shields.io/badge/GitHub-@lilpwnva84-fb923c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — say hi if something here is useful to you.</i></p>
